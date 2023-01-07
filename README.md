@@ -1,4 +1,4 @@
-Hi!
+Hi!<br><br>
 I'm Diego Lima, SQL and PL/SQL developer.
 
 Graduated in Computer Science and I'm studying MBA Data Science.
