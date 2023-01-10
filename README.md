@@ -16,10 +16,10 @@ My GitHub directories are organized as follows:
 <br>
 
 <div>
-<a href="https://github.com/diegolima210288">
+<a href="https://github.com/dpereira-lima">
 <img height="180em" 
-     src="https://github-readme-stats.vercel.app/api?username=diegolima210288&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolima210288&layout=compact&langs_count=7&theme=transparent"/>
+     src="https://github-readme-stats.vercel.app/api?username=dpereira-lima&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpereira-lima&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
   
