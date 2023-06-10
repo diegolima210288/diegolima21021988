@@ -1,9 +1,9 @@
 Hi!<br><br>
-I'm Diego Lima, SQL and PL/SQL developer.
+I'm Diego Lima, developer and data analyst
 
-Graduated in Computer Science and I'm studying MBA Data Science.
+Graduated in Computer Science and MBA in Data Science.
 
-I've worked as support, system analysis and currently work with the development of objects and routines, in relational databases, using SQL and PL/SQL.
+With more than 12 years of experience in IT, I have worked with support, systems analysis and currently work with development and data analysis.
  
 <br>
 
