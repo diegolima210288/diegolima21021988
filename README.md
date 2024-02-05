@@ -38,6 +38,6 @@ Let's get connected:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">Perfil Tableau</a>
+  <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">Perfil Tableau Public</a>
 </div>
 
