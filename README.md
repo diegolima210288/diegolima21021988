@@ -27,6 +27,14 @@ My GitHub directories are organized as follows:
 Let's get connected:
   
 <div>
-<a href = "mailto:diego.lima201402@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/diego-lima-40449672/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:diego.lima201402@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/diego-lima-40449672/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+  
+  <a href="[URL_DO_SEU_PERFIL_NO_TABLEAU](https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes)https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">Perfil Tableau</a>
 </div>
+
