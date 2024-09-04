@@ -39,11 +39,11 @@ Let's get connected:
   </a>
   
   <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">
-    <img src="https://https://img.shields.io/badge/Tableau-My%20profile-green?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021" alt="LinkedIn">
-</a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-My%20profile-green?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021">
+  </a>
 
   <a href="https://www.kaggle.com/diegolima2021" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-My%20profile-blue?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Kaggle-My%20profile-blue?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021">
   </a>
 </div>
 
