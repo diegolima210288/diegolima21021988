@@ -32,13 +32,15 @@ Let's get connected:
 <div>
   <a href="mailto:diego.lima201402@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  </a><br>
   
   <a href="https://www.linkedin.com/in/diego-lima-40449672/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">My profile Tableau</a>
+  <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">
+    <img src="https://https://img.shields.io/badge/Tableau-My%20profile-green?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021" alt="LinkedIn">
+</a>
 
   <a href="https://www.kaggle.com/diegolima2021" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-My%20profile-blue?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021" alt="LinkedIn">
