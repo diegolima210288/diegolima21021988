@@ -40,6 +40,8 @@ Let's get connected:
   
   <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">My profile Tableau</a>
 
-  <a href="https://www.kaggle.com/diegolima2021" target="_blank">My profile Kaggle</a>
+  <a href="https://www.kaggle.com/diegolima2021" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-My%20profile-blue?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021" alt="LinkedIn">
+  </a>
 </div>
 
