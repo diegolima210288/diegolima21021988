@@ -31,7 +31,7 @@ Let's get connected:
 
 <div>
   <a href="mailto:diego.lima201402@gmail.com" target="_blank">
-    ![img relacionamento](https://drive.google.com/uc?id=1kKN-KKj0CShE2Zk4gY9PnwTKkSVFJz6x
+    <img src="https://drive.google.com/uc?export=view&id=1kKN-KKj0CShE2Zk4gY9PnwTKkSVFJz6x" alt="Gmail Logo">
   </a>
   
   <a href="https://www.linkedin.com/in/diego-lima-40449672/" target="_blank">
@@ -46,4 +46,3 @@ Let's get connected:
     <img src="https://img.shields.io/badge/Kaggle-My%20profile-blue?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021">
   </a>
 </div>
-
