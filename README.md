@@ -31,7 +31,7 @@ Let's get connected:
 
 <div>
   <a href="mailto:diego.lima201402@gmail.com" target="_blank">
-    <img src="https://drive.google.com/file/d/1kKN-KKj0CShE2Zk4gY9PnwTKkSVFJz6x/view?usp=sharing" alt="Gmail">
+    ![img relacionamento](https://drive.google.com/uc?id=1kKN-KKj0CShE2Zk4gY9PnwTKkSVFJz6x
   </a>
   
   <a href="https://www.linkedin.com/in/diego-lima-40449672/" target="_blank">
