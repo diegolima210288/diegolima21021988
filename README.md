@@ -31,18 +31,18 @@ Let's get connected:
 
 <div>
   <a href="mailto:diego.lima201402@gmail.com" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1kKN-KKj0CShE2Zk4gY9PnwTKkSVFJz6x" alt="Gmail Logo">
+    <img src="https://drive.google.com/uc?export=view&id=1kKN-KKj0CShE2Zk4gY9PnwTKkSVFJz6x" alt="Gmail Logo" title="My Gmail">
   </a>
   
   <a href="https://www.linkedin.com/in/diego-lima-40449672/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://drive.google.com/uc?export=view&id=15HWN3FHNygRXwBZgNFbHavka5ANeG_Br" alt="LinkedIn" title="My profile LinkedIn">
   </a>
   
-  <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-My%20profile-green?style=flat&label=Tableau&link=https%3A%2F%2Fwww.public.tableau.com%2Fdiegolima2021">
+  <a href="https://www.kaggle.com/diegolima2021" target="_blank">
+     <img src="https://drive.google.com/uc?export=view&id=17OzWhDAtGFTl2Yn67b4EWjB6Nc8ttlGM" alt="Kaggle" title="My profile Kaggle">
   </a>
 
-  <a href="https://www.kaggle.com/diegolima2021" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-My%20profile-blue?style=flat&label=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fdiegolima2021">
+  <a href="https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1Yd6M3ePGmfaXjRJsxyN135P6F64wnpHF" alt="Tableau" title="My profile Tableau">
   </a>
 </div>
